@@ -97,6 +97,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-01-04 17:21:44 +0000",
       "minecraft:river": "2025-01-04 15:47:18 +0000",
       "minecraft:forest": "2025-01-04 15:47:21 +0000",
       "minecraft:savanna": "2025-01-04 15:41:05 +0000",
@@ -149,6 +150,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-04 16:25:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2025-01-04 17:21:08 +0000"
     },
     "done": true
   },
